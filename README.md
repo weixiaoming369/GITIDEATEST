@@ -1,2 +1,3 @@
 # GITIDEATEST
 使用idea对git的测试
+这是来自idea的邀请
